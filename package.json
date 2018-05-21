@@ -1,0 +1,22 @@
+{
+  "name": "personal-id",
+  "version": "1.0.0",
+  "description": "Writing tests using Jasmine and Karma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Beatriz Fonseca <betrizaf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.1.0",
+    "jasmine-core": "^3.1.0",
+    "karma": "^2.0.2",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.2"
+  }
+}
